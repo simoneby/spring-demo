@@ -3,6 +3,7 @@
 
    <!-- The key from the portal: -->
    <InstrumentationKey>601cc7c0-28dc-4e64-bb22-ee431e623d38</InstrumentationKey>
+   <RoleName>Kitty Cat 1</RoleName>
 
    <!-- HTTP request component (not required for bare API) -->
    <TelemetryModules>
